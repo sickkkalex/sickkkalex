@@ -1,108 +1,73 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a1a&height=120&section=header&text=&animation=twinkling" width="100%"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:000000&height=160&section=header&text=%3C%20dev%20%2F%3E&fontColor=ff3b71&fontSize=42&fontAlignY=65&animation=fadeIn&desc=web+developer+%7C+18+y%2Fo+%7C+Italy&descAlignY=85&descSize=14&descColor=888888&fontFamily=Fira+Code" />
 </div>
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=300&size=28&duration=3000&pause=1200&color=0a0a0a&center=true&vCenter=true&width=600&lines=web+developer+%40+18;building+the+web%2C+one+component+at+a+time;html+%E2%86%92+css+%E2%86%92+js+%E2%86%92+%E2%9C%A8;always+learning%2C+always+shipping" alt="typing" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=ff3b71&center=true&vCenter=true&width=650&lines=building+the+web%2C+one+component+at+a+time+%F0%9F%9A%80;HTML+%C2%B7+CSS+%C2%B7+JS+%C2%B7+TS+%C2%B7+React+%C2%B7+Node;learning+Next.js+%C2%B7+Three.js+%C2%B7+Docker;open+to+collabs+%26+freelance+%E2%9C%93" alt="typing" />
 </div>
 
 <br/>
 
 ---
 
-<br/>
+### 🧑‍💻 &nbsp;about me
 
-## `whoami`
-
-```ts
-const developer = {
-  name:      "your name",
-  age:        18,
-  location:  "Italy 🇮🇹",
-  role:      "web developer",
-  focus:     ["frontend", "clean UI", "good DX"],
-  available:  true,
-} as const;
+```js
+const me = {
+  age:      18,
+  location: "Italy 🇮🇹",
+  role:     "web developer",
+  focus:    ["clean UI", "smooth UX", "fast code"],
+  hobbies:  ["building stuff", "breaking stuff", "fixing stuff"],
+  status:   "available for collabs ✓",
+};
 ```
 
 <br/>
 
 ---
 
-<br/>
+### ⚡ &nbsp;tech stack
 
-## tech stack
-
-### know well
+#### &nbsp;know well
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs&theme=light&perline=6" height="60" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs&theme=dark&perline=6" height="60"/>
 </p>
 
 <br/>
 
-### currently learning
+#### &nbsp;currently learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,threejs,docker&theme=light&perline=6" height="60" />
-</p>
-
-<br/>
-
----
-
-<br/>
-
-## tools & environment
-
-### daily drivers
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,npm&theme=light&perline=5" height="60" />
-</p>
-
-<br/>
-
-### exploring
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,postman&theme=light&perline=5" height="60" />
+  <img src="https://skillicons.dev/icons?i=nextjs,threejs,docker&theme=dark&perline=6" height="60"/>
 </p>
 
 <br/>
 
 ---
 
-<br/>
+### 🖥️ &nbsp;tools & environment
 
-## github stats
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&hide_border=false&title_color=e6edf3&text_color=8b949e&icon_color=e6edf3&count_private=true&rank_icon=github&card_width=400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&bg_color=ffffff&border_color=e0e0e0&hide_border=false&title_color=0a0a0a&text_color=555&icon_color=0a0a0a&count_private=true&rank_icon=github&card_width=400" height="165" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=e6edf3&text_color=8b949e&hide_border=false&langs_count=6" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&bg_color=ffffff&border_color=e0e0e0&title_color=0a0a0a&text_color=555&hide_border=false&langs_count=6" height="165" />
-</picture>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,vercel,npm&theme=dark&perline=6" height="60"/>
+</p>
 
 <br/>
 
+---
+
+### 📊 &nbsp;github stats
+
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" />
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default&background=ffffff&border=e0e0e0&stroke=e0e0e0&ring=0a0a0a&fire=0a0a0a&currStreakNum=0a0a0a&sideNums=555555&currStreakLabel=0a0a0a&sideLabels=555555&dates=999999" height="165" />
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&count_private=true&show_icons=true&theme=github_dark&title_color=ff3b71&icon_color=ff3b71&hide_border=true&bg_color=00000000&rank_icon=github&text_color=cccccc" height="165" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=6&title_color=ff3b71&text_color=cccccc" height="165" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&background=DD272700&fire=ff3b71&ring=ff225f&currStreakLabel=ff3b71&sideLabels=888888&dates=666666&currStreakNum=ffffff&sideNums=cccccc" height="165" />
 
 </div>
 
@@ -110,46 +75,36 @@ const developer = {
 
 ---
 
-<br/>
+### 📈 &nbsp;contribution graph
 
-## contribution graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=e6edf3&line=58a6ff&point=e6edf3&area=true&area_color=1f3a5f&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=ffffff&color=0a0a0a&line=0a0a0a&point=0a0a0a&area=true&area_color=f0f0f0&hide_border=true" width="100%" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=00000000&color=ff3b71&line=ff225f&point=ffffff&area=true&area_color=1a0008&hide_border=true" width="100%" />
 
 <br/>
 
 ---
 
-<br/>
-
-## currently
+### 🚀 &nbsp;currently
 
 ```
 →  building   something new
 →  learning   Next.js · Three.js · Docker
 →  reading    clean code & system design
 →  open to    collabs & freelance projects
+→  status     available ✓
 ```
 
 <br/>
 
 ---
 
-<br/>
-
 <div align="center">
 
-<sub>made with precision · updated daily · open to collab</sub>
+![visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=ff225f&label=profile+views&labelColor=0d0d0d)
 
-<br/><br/>
-
-![visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=000000&label=profile+views)
+<br/><sub>open to collaborations · always learning · made with ☕</sub>
 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1a1a1a&height=80&section=footer" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d0d0d,100:000000&height=100&section=footer" />
 </div>
