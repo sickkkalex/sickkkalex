@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍🎓 - Currently studying.<br>🌐 - Web Developer & Designer<br>🎂 - 18 y/o<br>
+👨🏻‍🎓 - Currently studying at UniBA.<br>🌐 - Web Developer & Designer<br>🎂 - 19 y/o<br>
 
 
 ## 🌐 Socials:
